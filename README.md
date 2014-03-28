@@ -2,7 +2,6 @@ Use Git for all your SVN projects starting now
 =======
 
 
-Utilize Git with a SVN repository
 
 # GIT SVN Workflows #
 
@@ -10,7 +9,7 @@ Utilize Git with a SVN repository
 
 1. **GIT SVN Checkout**
 
-	    $ git svn clone -s https://tools.sapient.com/svn/MGPT
+	    $ git svn clone -s https://[repository.url]
 
 2. **Update local repository**
 
