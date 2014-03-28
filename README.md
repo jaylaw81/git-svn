@@ -1,9 +1,9 @@
 Use Git for all your SVN projects starting now
 =======
 
+[Why you should switch to Git](http://blog.teamtreehouse.com/why-you-should-switch-from-subversion-to-git)
 
 
-# GIT SVN Workflows #
 
 ## Basic Changeset Process ##
 
