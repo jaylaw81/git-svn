@@ -1,5 +1,6 @@
-git-svn
+Use Git for all your SVN projects starting now
 =======
+
 
 Utilize Git with a SVN repository
 
